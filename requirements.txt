@@ -1,3 +1,5 @@
-holoviews
 matplotlib
 scikit-image
+pandas
+sklearn
+pylab
