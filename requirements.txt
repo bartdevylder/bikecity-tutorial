@@ -1,5 +1,6 @@
+numpy
+scipy
 matplotlib
-scikit-image
-pandas
 sklearn
-pylab
+pandas
+
