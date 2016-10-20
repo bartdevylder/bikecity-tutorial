@@ -1,2 +1,6 @@
 .ipynb_checkpoints/
 data/forecasting/
+.nbgrader.log
+gradebook.db
+
+
